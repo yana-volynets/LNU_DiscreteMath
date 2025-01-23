@@ -1,4 +1,4 @@
-LNU_DiscreteMath
+# LNU_DiscreteMath
 
 Дискретна Математика 2024 ПМК-12
 
